@@ -4,7 +4,7 @@
 
 Master's student in Financial Risk Management at **Politecnico di Milano**, interested in financial risk, quantitative modelling, investment analytics and evidence-driven decision-making.
 
-[**Explore my portfolio website**](https://yashhiingorani67.github.io/) · [**LinkedIn**](https://www.linkedin.com/in/yashhingorani) · [**Email**](mailto:Yash.hingorani@gsom.polimi.it) · [**Research brief**](https://yashhiingorani67.github.io/research-brief.html)
+[**Explore my portfolio website**](https://yashhiingorani67.github.io/yashhingorani.github.io/) · [**LinkedIn**](https://www.linkedin.com/in/yashhingorani) · [**Email**](mailto:Yash.hingorani@gsom.polimi.it) · [**Research brief**](https://yashhiingorani67.github.io/research-brief.html)
 
 ---
 
